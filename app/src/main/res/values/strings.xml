@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Xtremax-Fathur</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="tab_text_1">Users</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_detail">User Details</string>
+    <string name="text_user_name">Name : (%s)</string>
+    <string name="text_user_email">E-mail : (%s)</string>
+    <string name="text_user_address">Address : (%s)</string>
+    <string name="text_user_phone">Phone : (%s)</string>
+    <string name="text_user_website">Website : (%s)</string>
+
+</resources>
